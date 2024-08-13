@@ -67,7 +67,7 @@ To get started with the BARK Protocol, follow the instructions below:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bark-protocol.git
+git clone https://github.com/barkprotocol/crowdfunding-platform.git
 cd bark-protocol
 ```
 
